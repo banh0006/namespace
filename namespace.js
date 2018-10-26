@@ -25,6 +25,6 @@ var PHUCTHIEN1995 = {
         }
         
         let boxes = document.querySelector("#boxes");
-        boxes.appendChild(boxes);
+        boxes.appendChild(myBox);
     }
 };
